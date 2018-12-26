@@ -1,2 +1,2 @@
-# Seren-Provider-Zips
-Seren-Provider-Zips
+# SerenProviderZips
+Seren Provider Packages Repository
